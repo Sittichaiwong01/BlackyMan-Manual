@@ -2,7 +2,7 @@
 
 Cloud manual/reference library.
 
-_Updated: 2026-06-04 04:15:39_
+_Updated: 2026-06-04 19:22:37_
 
 ## PDF Files
 
@@ -19,8 +19,8 @@ _Updated: 2026-06-04 04:15:39_
 
 ## Spreadsheet Files
 
-- [BlackymanSpec.xlsx](BlackymanSpec.xlsx) (10.23 KB)
+- [BlackyManSpec_Complete.xlsx](BlackyManSpec_Complete.xlsx) (14.56 KB)
 
 ## Text Files
 
-- [README.md](README.md) (792 B)
+- [README.md](README.md) (856 B)
